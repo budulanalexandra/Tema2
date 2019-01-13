@@ -8,7 +8,7 @@
 	int yyerror(const char *mesaj);
 	int init = 0;
 	int Correct = 1;	
-	char mesaj[500];
+	char mesaj[200];
 
 	class TVAR
 	{
